@@ -5,7 +5,7 @@ import wget
 
 from urllib.parse import urlparse
 
-API_KEY = os.environ['5852815208:AAH-U_5ZA8yDujJNrmJK3Gew7g39dNykP5A']
+API_KEY = os.environ['6890624594:AAEsXcmGPJztge6Qdb9UOVU3pOcxX18Rwn0']
 bot = telebot.TeleBot(API_KEY)
 options = []
 
